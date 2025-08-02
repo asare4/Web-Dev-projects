@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+div{
+    position: relative;
+    overflow: hidden;
+    padding: 5%;
+    background: linear-gradient(#fff, #b7e7f6);
+}
+/* .container ul{
+    min-height: 70vh;
+    background: linear-gradient(hsl(0, 3%, 67%), #fff);
+    align-items: center;
+} */
