@@ -9,6 +9,9 @@ div{
     padding: 5%;
     background: linear-gradient(#fff, #b7e7f6);
 }
+li {
+    text-decoration: none;
+}
 /* .container ul{
     min-height: 70vh;
     background: linear-gradient(hsl(0, 3%, 67%), #fff);
